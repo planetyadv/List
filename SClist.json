@@ -1,0 +1,44 @@
+[
+  {
+    "name": "GitHub",
+    "rating": 4.9,
+    "url": "https://github.com",
+    "description": "Платформа для хостинга кода и совместной разработки."
+  },
+  {
+    "name": "Stack Overflow",
+    "rating": 4.8,
+    "url": "https://stackoverflow.com",
+    "description": "Главный Q&A-ресурс для разработчиков."
+  },
+  {
+    "name": "Python.org",
+    "rating": 4.8,
+    "url": "https://python.org",
+    "description": "Официальный сайт языка Python."
+  },
+  {
+    "name": "Хабр",
+    "rating": 4.7,
+    "url": "https://habr.com",
+    "description": "Крупнейшее русскоязычное IT-сообщество."
+  },
+  {
+    "name": "MDN Web Docs",
+    "rating": 4.9,
+    "url": "https://developer.mozilla.org",
+    "description": "Документация по HTML, CSS, JavaScript от Mozilla."
+  },
+  {
+    "name": "Wikipedia",
+    "rating": 4.8,
+    "url": "https://wikipedia.org",
+    "description": "Свободная энциклопедия на сотнях языков."
+  },
+  {
+    "name": "YouTube",
+    "rating": 4.9,
+    "url": "https://youtube.com",
+    "description": "Видеохостинг с обучающими курсами и развлечениями."
+  }
+]
